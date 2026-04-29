@@ -47,13 +47,13 @@ By day, I work in IT project management and operations. By night, when the bat s
 Lightweight Markdown Composer and Viewer built in Rust.  
 https://github.com/Ranrar/Marco
 
-### rustic-prompt
-AI instruction collection for Rust workflows.  
-https://github.com/Ranrar/rustic-prompt
-
-### emoji-eraser
-VS Code utility for emoji diagnostics and bulk cleanup.  
-https://github.com/Ranrar/emoji-eraser
+<a href="https://www.star-history.com/?repos=Ranrar%2FMarco&type=timeline&logscale=&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Ranrar/Marco&type=timeline&theme=dark&logscale&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Ranrar/Marco&type=timeline&logscale&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Ranrar/Marco&type=timeline&logscale&legend=top-left" />
+ </picture>
+</a>
 
 ## Philosophy
 
