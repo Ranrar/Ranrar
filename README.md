@@ -41,19 +41,11 @@ By day, I work in IT project management and operations. By night, when the bat s
   <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
 </p>
 
-## Featured projects
+## Featured project
 
 ### Marco
 Lightweight Markdown Composer and Viewer built in Rust.  
 https://github.com/Ranrar/Marco
-
-<a href="https://www.star-history.com/?repos=Ranrar%2FMarco&type=timeline&logscale=&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Ranrar/Marco&type=timeline&theme=dark&logscale&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Ranrar/Marco&type=timeline&logscale&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Ranrar/Marco&type=timeline&logscale&legend=top-left" />
- </picture>
-</a>
 
 ## Philosophy
 
